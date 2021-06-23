@@ -1,0 +1,30 @@
+C:\Users\Marvin\source\repos\OperationsMath\OperationsMath\OperationsMath\bin\Debug\netstandard2.0\OperationsMath.deps.json
+C:\Users\Marvin\source\repos\OperationsMath\OperationsMath\OperationsMath\bin\Debug\netstandard2.0\OperationsMath.dll
+C:\Users\Marvin\source\repos\OperationsMath\OperationsMath\OperationsMath\bin\Debug\netstandard2.0\ref\OperationsMath.dll
+C:\Users\Marvin\source\repos\OperationsMath\OperationsMath\OperationsMath\bin\Debug\netstandard2.0\OperationsMath.pdb
+C:\Users\Marvin\source\repos\OperationsMath\OperationsMath\OperationsMath\obj\Debug\netstandard2.0\OperationsMath.csprojAssemblyReference.cache
+C:\Users\Marvin\source\repos\OperationsMath\OperationsMath\OperationsMath\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Marvin\source\repos\OperationsMath\OperationsMath\OperationsMath\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Marvin\source\repos\OperationsMath\OperationsMath\OperationsMath\obj\Debug\netstandard2.0\OperationsMath.AssemblyInfoInputs.cache
+C:\Users\Marvin\source\repos\OperationsMath\OperationsMath\OperationsMath\obj\Debug\netstandard2.0\OperationsMath.AssemblyInfo.cs
+C:\Users\Marvin\source\repos\OperationsMath\OperationsMath\OperationsMath\obj\Debug\netstandard2.0\OperationsMath.csproj.CoreCompileInputs.cache
+C:\Users\Marvin\source\repos\OperationsMath\OperationsMath\OperationsMath\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Marvin\source\repos\OperationsMath\OperationsMath\OperationsMath\obj\Debug\netstandard2.0\OperationsMath.dll
+C:\Users\Marvin\source\repos\OperationsMath\OperationsMath\OperationsMath\obj\Debug\netstandard2.0\ref\OperationsMath.dll
+C:\Users\Marvin\source\repos\OperationsMath\OperationsMath\OperationsMath\obj\Debug\netstandard2.0\OperationsMath.pdb
+C:\Users\Marvin\source\repos\OperationsMath\OperationsMath\OperationsMath\obj\Debug\netstandard2.0\Segunda.xaml.g.cs
+C:\Users\Marvin Pineda\Desktop\todo\OperationsMath\OperationsMath\OperationsMath\bin\Debug\netstandard2.0\OperationsMath.deps.json
+C:\Users\Marvin Pineda\Desktop\todo\OperationsMath\OperationsMath\OperationsMath\bin\Debug\netstandard2.0\OperationsMath.dll
+C:\Users\Marvin Pineda\Desktop\todo\OperationsMath\OperationsMath\OperationsMath\bin\Debug\netstandard2.0\ref\OperationsMath.dll
+C:\Users\Marvin Pineda\Desktop\todo\OperationsMath\OperationsMath\OperationsMath\bin\Debug\netstandard2.0\OperationsMath.pdb
+C:\Users\Marvin Pineda\Desktop\todo\OperationsMath\OperationsMath\OperationsMath\obj\Debug\netstandard2.0\OperationsMath.csproj.AssemblyReference.cache
+C:\Users\Marvin Pineda\Desktop\todo\OperationsMath\OperationsMath\OperationsMath\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Marvin Pineda\Desktop\todo\OperationsMath\OperationsMath\OperationsMath\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Marvin Pineda\Desktop\todo\OperationsMath\OperationsMath\OperationsMath\obj\Debug\netstandard2.0\Segunda.xaml.g.cs
+C:\Users\Marvin Pineda\Desktop\todo\OperationsMath\OperationsMath\OperationsMath\obj\Debug\netstandard2.0\OperationsMath.AssemblyInfoInputs.cache
+C:\Users\Marvin Pineda\Desktop\todo\OperationsMath\OperationsMath\OperationsMath\obj\Debug\netstandard2.0\OperationsMath.AssemblyInfo.cs
+C:\Users\Marvin Pineda\Desktop\todo\OperationsMath\OperationsMath\OperationsMath\obj\Debug\netstandard2.0\OperationsMath.csproj.CoreCompileInputs.cache
+C:\Users\Marvin Pineda\Desktop\todo\OperationsMath\OperationsMath\OperationsMath\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Marvin Pineda\Desktop\todo\OperationsMath\OperationsMath\OperationsMath\obj\Debug\netstandard2.0\OperationsMath.dll
+C:\Users\Marvin Pineda\Desktop\todo\OperationsMath\OperationsMath\OperationsMath\obj\Debug\netstandard2.0\ref\OperationsMath.dll
+C:\Users\Marvin Pineda\Desktop\todo\OperationsMath\OperationsMath\OperationsMath\obj\Debug\netstandard2.0\OperationsMath.pdb
